@@ -8,14 +8,10 @@
 
 This mod is created by MCr.
 
-模组遵守Apache 2.0协议。
-
-The mod complies with the Apache 2.0 license.
-
-模组由BunnimimiTotem(Busituteng)提供。
-
-The mod is provided by BunnimiTotem (Busituteng).
-
 原模组下载界面及相关介绍：https://www.mcmod.cn/class/321.html
 
 Original module download website and related introduction:https://www.mcmod.cn/class/321.html
+
+模组涉嫌抄袭，已被清理。
+
+The mod is suspected of plagiarism and has been cleared.
