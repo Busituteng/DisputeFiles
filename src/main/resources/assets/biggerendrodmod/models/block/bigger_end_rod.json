@@ -1,0 +1,8 @@
+{
+  "parent": "biggerendrodmod:blocks/bigger_end_rod",
+  "textures": {
+    "all": "biggerendrodmod:blocks/bigger_end_rod",
+    "particle": "biggerendrodmod:blocks/bigger_end_rod",
+    "2": "biggerendrodmod:blocks/bigger_end_rod"
+  }
+}
